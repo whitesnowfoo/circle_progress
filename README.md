@@ -1,6 +1,6 @@
 # flutter_circle
 
-A new Flutter application.
+一个刻度盘进度条demo
 
 ## Getting Started
 
